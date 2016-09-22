@@ -1,4 +1,4 @@
 # Digital Image Processing
 
-This is a 
+Algoritmos de pre procesamiento para imágenes médicas para Detección de Cáncer de mama — 
 
